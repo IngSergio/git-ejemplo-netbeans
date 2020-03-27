@@ -7,3 +7,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+manifest.mf
+build.xml
